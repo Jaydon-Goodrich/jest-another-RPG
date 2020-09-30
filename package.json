@@ -1,0 +1,26 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaydon-Goodrich/jest-another-RPG.git"
+  },
+  "author": "Jaydon Goodrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaydon-Goodrich/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Jaydon-Goodrich/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.14",
+    "inquirer": "^7.3.3"
+  }
+}
